@@ -25,14 +25,12 @@
 ---
 
 ### 📫 Как со мной связаться
-* **LinkedIn:** [www.linkedin.com/in/ainur-davl]
-* **Telegram:** [https://t.me/lugekate]
-* **Email:** [davletchurin@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/ainur-davl](https://www.linkedin.com/in/ainur-davl)
+* **Telegram:** [https://t.me/lugekate](t.me/lugekate)
+* **Email:** [davletchurin@gmail.com](mailto:davletchurin@gmail.com)
 
 ---
 
 ### 📊 Моя активность
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davletchurin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=tokyonight&line_height=20&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davletchurin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
