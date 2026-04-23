@@ -32,5 +32,5 @@
 ---
 
 ### 📊 Моя активность
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=dark&line_height=24&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davletchurin&layout=compact&theme=dark)
