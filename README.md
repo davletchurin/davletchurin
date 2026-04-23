@@ -32,5 +32,7 @@
 ---
 
 ### 📊 Моя активность
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=dark&line_height=24&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davletchurin&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davletchurin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davletchurin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
